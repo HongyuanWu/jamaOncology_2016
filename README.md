@@ -12,6 +12,6 @@ To reproduce a publication:
 
 	3) Modify line 3 of [publication].R script to set publication directory on your local machine as userDirectory
 
-	4) Run [publication].R script to produce figures
+	4) Run [publication].R script to produce figures in dataOutput directory
 
 Good luck...!
