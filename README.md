@@ -1,4 +1,4 @@
-To encourage transparency, replicability/reproducibility, and also for educational purposes, the scripts herein reproduce major figures and findings associated with the following publication:
+To encourage transparency, replicability/reproducibility, and also for educational purposes, the scripts herein replicate the major figures and findings associated with the following publication:
 
 http://jamanetwork.com/journals/jamaoncology/article-abstract/2588642
 
