@@ -1,0 +1,18 @@
+Intrinsic Subtype Switching and Acquired ERBB2/HER2 Amplifications and Mutations in Breast Cancer Brain Metastases. JAMA Oncol. 2016 Dec 7. doi: 10.1001/jamaoncol.2016.5630. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/27926948
+http://jamanetwork.com/journals/jamaoncology/article-abstract/2588642
+
+ABSTRACT
+
+IMPORTANCE: Patients with breast cancer (BrCa) brain metastases (BrM) have limited therapeutic options. A better understanding of molecular alterations acquired in BrM could identify clinically actionable metastatic dependencies.
+
+OBJECTIVE: To determine whether there are intrinsic subtype differences between primary tumors and matched BrM and to uncover BrM-acquired alterations that are clinically actionable.
+
+DESIGN, SETTING, AND PARTICIPANTS: In total, 20 cases of primary breast cancer tissue and resected BrM (10 estrogen receptor [ER]-negative and 10 ER-positive) from 2 academic institutions were included. Eligible cases in the discovery cohort harbored patient-matched primary breast cancer tissue and resected BrM. Given the rarity of patient-matched samples, no exclusion criteria were enacted. Two validation sequencing cohorts were used-a published data set of 17 patient-matched cases of BrM and a cohort of 7884 BrCa tumors enriched for metastatic samples.
+
+MAIN OUTCOMES AND MEASURES: Brain metastases expression changes in 127 genes within BrCa signatures, PAM50 assignments, and ERBB2/HER2 DNA-level gains.
+
+RESULTS: Overall, 17 of 20 BrM retained the PAM50 subtype of the primary BrCa. Despite this concordance, 17 of 20 BrM harbored expression changes (<2-fold or >2-fold) in clinically actionable genes including gains of FGFR4 (n = 6 [30%]), FLT1 (n = 4 [20%]), AURKA (n = 2 [10%]) and loss of ESR1 expression (n = 9 [45%]). The most recurrent expression gain was ERBB2/HER2, which showed a greater than 2-fold expression increase in 7 of 20 BrM (35%). Three of these 7 cases were ERBB2/HER2-negative out of 13 ERBB2/HER2-negative in the primary BrCa cohort and became immunohistochemical positive (3+) in the paired BrM with metastasis-specific amplification of the ERBB2/HER2 locus. In an independent data set, 2 of 9 (22.2%) ERBB2/HER2-negative BrCa switched to ERBB2/HER2-positive with 1 BrM acquiring ERBB2/HER2 amplification and the other showing metastatic enrichment of the activating V777L ERBB2/HER2 mutation. An expanded cohort revealed that ERBB2/HER2 amplification and/or mutation frequency was unchanged between local disease and metastases across all sites; however, a significant enrichment was appreciated for BrM (13% local vs 24% BrM; P < .001).
+
+CONCLUSIONS AND RELEVANCE: Breast cancer BrM commonly acquire alterations in clinically actionable genes, with metastasis-acquired ERBB2/HER2 alterations in approximately 20% of ERBB2/HER2-negative cases. These observations have immediate clinical implications for patients with ERBB2/HER2-negative breast cancer and support comprehensive profiling of metastases to inform clinical care.
